@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "f43e3c4e-f418-f93f-e3c9-d68a7b8d03ab",
+  "instructors": {
+    "content": [
+      "3b529d11-7731-958d-bc28-db422ebbb200"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f13debf-11c2-d66e-1596-d0e64b19c32a",
+    "website": "15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016"
+  },
+  "course_title": "Ethical Practice: Leading Through Professionalism, Social Responsibility, and System Design",
+  "course_description": "This course offers an introduction to ethics in business, with a focus on business management. Students explore theoretical concepts in business ethics, and cases representing the challenges they will likely face as managers. There is opportunity to work with guest faculty as well as business and other professional practitioners. Individual class sessions take the form of moderated discussion, with occasional short lectures from the instructor.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.270",
+  "course_image_thumbnail": {
+    "content": "27e77cb3-697e-c737-ecb4-50f5aa7413df",
+    "website": "15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "add57847-73f3-45fb-ba4d-d2f298f4eac7",
+  "site_short_id": "15.270-spring-2016",
+  "site_url_path": "courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016",
+  "title": "Course Metadata"
+}

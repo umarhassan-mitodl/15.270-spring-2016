@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 4ed1265d-9a73-80f2-a867-5e2df4a2aef6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ee21bffc-07f2-936a-5534-8e7dc8b864c8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 9a7085ec-2597-9b37-c704-4399c0c32778
+  name: 'Fostering Meaningful Discussions '
+  pageRef: /pages/instructor-insights/fostering-meaningful-discussions
+  parent: ee21bffc-07f2-936a-5534-8e7dc8b864c8
+  weight: 30
+- identifier: 0ad0c618-aaea-eaa0-5a95-0e772f9aa2ac
+  name: The Role of Teamwork
+  pageRef: /pages/instructor-insights/the-role-of-teamwork
+  parent: ee21bffc-07f2-936a-5534-8e7dc8b864c8
+  weight: 40
+- identifier: 94729a6c-875f-f561-9b36-145cc78ddef0
+  name: Giving Students Feedback
+  pageRef: /pages/instructor-insights/giving-students-feedback
+  parent: ee21bffc-07f2-936a-5534-8e7dc8b864c8
+  weight: 50
+- identifier: e73dce03-093a-c0e0-26a6-fc050f72f793
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 9bb38fe8-fa68-0615-4198-a18d1aba2587
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: b2e6b48d-5946-40d4-5a8e-e67032869366
+  name: Study Questions
+  pageRef: /pages/study-questions
+  weight: 80
